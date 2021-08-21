@@ -5,17 +5,25 @@ body{
 .quadrado{
     text-align: center;
     width: 50px;
-    background: #000;
+    background: rgb(107, 106, 106);
     display: inline-block;
     padding: 40px;
     font-size: 60px;
     margin: 5px;
     cursor: pointer;
-    color:#000;
+    color:rgb(107, 106, 106);
 }
 
-.jogador .vencedor{
-    font: 30px;
+.jogador, .vencedor{
+    font-size: 30px;
     margin-top: 10px;
-    
+    font-family: 'Times New Roman', Times, serif;
+
+}
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: rgb(107, 106, 106);
+    cursor: pointer;
 }
