@@ -1,3 +1,3 @@
 # jogo da velha
 
-Status:EM desenvolvimento
+Status:Em desenvolvimento
