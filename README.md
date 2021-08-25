@@ -1,6 +1,6 @@
 # jogo da velha
 
-Status:Pronto
+Status: Em desenvolvimento
 
 ## Sobre
 
