@@ -12,18 +12,24 @@ body{
     margin: 5px;
     cursor: pointer;
     color:rgb(107, 106, 106);
+    border-radius: 10px;
 }
 
 .jogador, .vencedor{
     font-size: 30px;
     margin-top: 10px;
-    font-family: 'Times New Roman', Times, serif;
-
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 button {
     margin-top: 10px;
     width: 100px;
     height: 30px;
-    background: rgb(107, 106, 106);
+    background: rgba(34, 235, 77, 0.589);
     cursor: pointer;
+    border-radius: 10px;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 }
