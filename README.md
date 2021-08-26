@@ -1,6 +1,6 @@
 # jogo da velha
 
-Status: Em desenvolvimento
+Status: Pronto
 
 ## Objetivo
 
@@ -8,7 +8,23 @@ Status: Em desenvolvimento
 
 ## Sobre
 
-+ é um projeto de jogo da velha feito com base no bootcamp da JavaScript Game Developer oferecido pela digital innovation one
++ É um projeto de jogo da velha feito com base no bootcamp da JavaScript Game Developer oferecido pela digital innovation one
+
+## Como rodar o projeto
+
++ Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
 
 ## Tecnologias
 
+<table>
+    <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    </tr>
+    <tr>
+    <td>5.*</td>
+    <td>3.*</td>
+    <td>5.*</td>
+    </tr>
+</table>
